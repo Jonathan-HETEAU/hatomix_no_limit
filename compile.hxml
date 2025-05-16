@@ -2,5 +2,7 @@
 -lib heaps
 -lib format
 -lib hlsdl
+-lib deepnightLibs
 -hl Hatomix.hl
+-D windowSize=800x600
 -main Main
